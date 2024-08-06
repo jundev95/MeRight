@@ -1,2 +1,3 @@
-# MeRight
-개인정보 유출 검색 서비스 (얼굴인식 AI, 대용량 클로링 및 검색 기능) // 클라우드 기반 빅데이터를 활용한 인공지능 개발자 양성과정(22.04~22.10) - 최종프로젝트
+# 우주 최고 AI 만들기 프로젝트
+![EdXmlroUMAAFxwH](https://user-images.githubusercontent.com/28979443/178137664-61afed17-b032-4e83-a032-7230494fbe1e.png)
+good..
